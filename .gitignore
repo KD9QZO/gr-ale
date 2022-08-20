@@ -1,0 +1,9 @@
+#
+# .gitignore
+#
+
+## Generic Backup & Temporary Files ##
+
+*~
+*.bak
+*.tmp
